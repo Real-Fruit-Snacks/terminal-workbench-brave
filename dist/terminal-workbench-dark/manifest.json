@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Terminal Workbench Dark",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "description": "Calm graphite terminal-workbench chrome — dark mode.",
   "theme": {
     "colors": {
