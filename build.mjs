@@ -61,7 +61,7 @@ export function buildManifest(mode, tokens) {
   return {
     manifest_version: 3,
     name: `Terminal Workbench ${label}`,
-    version: '1.5.0',
+    version: '1.6.0',
     description: `Calm graphite terminal-workbench chrome — ${mode} mode.`,
     theme: { colors },
   };
