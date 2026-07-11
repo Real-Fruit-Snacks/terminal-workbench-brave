@@ -10,14 +10,14 @@ const MAPPING = {
   frame_inactive: 'chrome-page',
   toolbar: 'chrome-toolbar',
   tab_text: 'tab-label',
-  tab_background_text: 'text-muted',
-  tab_background_text_inactive: 'tab-inactive-unfocused',
+  tab_background_text: 'chrome-muted',
+  tab_background_text_inactive: 'chrome-muted-dim',
   omnibox_background: 'chrome-field',
-  omnibox_text: 'text-normal',
+  omnibox_text: 'chrome-text',
   bookmark_text: 'bookmark-text',
-  toolbar_button_icon: 'text-soft',
+  toolbar_button_icon: 'chrome-icon',
   ntp_background: 'chrome-page',
-  ntp_text: 'text-normal',
+  ntp_text: 'chrome-text',
   ntp_link: 'accent-alt',
 };
 
@@ -61,7 +61,7 @@ export function buildManifest(mode, tokens) {
   return {
     manifest_version: 3,
     name: `Terminal Workbench ${label}`,
-    version: '1.3.0',
+    version: '1.4.0',
     description: `Calm graphite terminal-workbench chrome — ${mode} mode.`,
     theme: { colors },
   };
