@@ -1,3 +1,12 @@
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/assets/cover-dark.svg" />
+  <img alt="Terminal Workbench for Brave — dark and light browser themes" src="docs/assets/cover-light.svg" width="820" />
+</picture>
+
+</div>
+
 # Terminal Workbench for Brave
 
 [![Latest release](https://img.shields.io/github/v/release/Real-Fruit-Snacks/terminal-workbench-brave?label=release&color=2a9d6e)](https://github.com/Real-Fruit-Snacks/terminal-workbench-brave/releases/latest)
