@@ -1,49 +1,49 @@
 {
   "manifest_version": 3,
   "name": "Terminal Workbench Dark",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "Calm graphite terminal-workbench chrome — dark mode.",
   "theme": {
     "colors": {
       "frame": [
-        5,
-        9,
-        8
+        0,
+        0,
+        0
       ],
       "frame_inactive": [
-        4,
-        7,
-        5
+        0,
+        0,
+        0
       ],
       "toolbar": [
-        14,
-        26,
-        18
+        7,
+        16,
+        9
       ],
       "tab_text": [
+        140,
+        247,
+        195
+      ],
+      "tab_background_text": [
+        63,
+        122,
+        92
+      ],
+      "tab_background_text_inactive": [
+        52,
+        101,
+        76
+      ],
+      "omnibox_background": [
+        3,
+        7,
+        4
+      ],
+      "omnibox_text": [
         99,
         242,
         171
-      ],
-      "tab_background_text": [
-        85,
-        131,
-        106
-      ],
-      "tab_background_text_inactive": [
-        64,
-        101,
-        82
-      ],
-      "omnibox_background": [
-        8,
-        17,
-        12
-      ],
-      "omnibox_text": [
-        199,
-        211,
-        204
       ],
       "bookmark_text": [
         99,
@@ -51,24 +51,24 @@
         171
       ],
       "toolbar_button_icon": [
-        125,
-        187,
-        152
+        79,
+        154,
+        115
       ],
       "ntp_background": [
-        4,
-        7,
-        5
+        0,
+        0,
+        0
       ],
       "ntp_text": [
-        199,
-        211,
-        204
+        99,
+        242,
+        171
       ],
       "ntp_link": [
-        107,
-        220,
-        255
+        99,
+        242,
+        171
       ]
     }
   }
